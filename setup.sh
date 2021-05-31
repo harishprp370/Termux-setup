@@ -31,3 +31,4 @@ apt install wget -y
 apt install termux-tools -y
 apt install pip -y
 apt install ruby -y
+termux-setup-storage
