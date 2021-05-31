@@ -26,6 +26,15 @@ $ apt install python2 -y
 $ pip install lolcat -y
 ```
 ```
-
+$ git clone https://github.com/harishprp/Termux-setup.git
+```
+```
+$ ls
+```
+```
+$ chmod 777 setup.sh
+```
+```
+$ ./setup.sh
 
 
