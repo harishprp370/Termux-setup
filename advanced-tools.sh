@@ -13,14 +13,14 @@ echo "\...attempting metasploit framework .../"|lolcat
 echo" "
 apt install metasploit -y
 
-echo "\...attempting metasploit framework .../"|lolcat
+echo "\...attempting Powerful tool is Tool-x.../"|lolcat
 echo" "
 
 apt install git 
 
 git clone https://github.com/rajkumardusad/Tool-X.git
 
-echo "\...attempting metasploit framework .../"|lolcat
+echo "\...attempting sqlmap project .../"|lolcat
 echo" "
 
 https://github.com/sqlmapproject/sqlmap
