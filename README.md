@@ -6,8 +6,7 @@
 Termux-setup is terminal setup tool for android application termux
 
 ### Installation and usage guide
-```
-```
+
 $ apt-get update -y
 ```
 ```
