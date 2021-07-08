@@ -25,7 +25,7 @@ $ apt install python2 -y
 $ pip install lolcat -y
 ```
 ```
-$ git clone https://github.com/harishprp/Termux-setup.git
+$ git clone https://github.com/h4ckerharish/Termux-setup.git
 ```
 ```
 $ ls
